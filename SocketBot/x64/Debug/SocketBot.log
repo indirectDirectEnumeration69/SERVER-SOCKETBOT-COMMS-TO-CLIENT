@@ -1,0 +1,121 @@
+﻿  SocketBot.cpp
+S:\SocketBot\SocketBot.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+S:\SocketBot\SocketBot.cpp(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+S:\SocketBot\SocketBot.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  The contents of <filesystem> are available only with C++17 or later.
+S:\SocketBot\SocketBot.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+S:\SocketBot\SocketBot.cpp(19,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+S:\SocketBot\SocketBot.cpp(20,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+S:\SocketBot\SocketBot.cpp(21,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+S:\SocketBot\SocketBot.cpp(22,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+S:\SocketBot\SocketBot.cpp(90,2): warning C4808: case '67' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(401,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+S:\SocketBot\SocketBot.cpp(408,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+S:\SocketBot\SocketBot.cpp(406,4): warning C4102: 's': unreferenced label
+S:\SocketBot\SocketBot.cpp(416,15): warning C4930: 'std::wstring CreateBatch(void)': prototyped function not called (was a variable definition intended?)
+S:\SocketBot\SocketBot.cpp(417,15): warning C4930: 'std::wstring GetEnvString(void)': prototyped function not called (was a variable definition intended?)
+S:\SocketBot\SocketBot.cpp(434,5): warning C4553: '==': result of expression not used; did you intend '='?
+S:\SocketBot\SocketBot.cpp(435,56): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+S:\SocketBot\SocketBot.cpp(436,100): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+S:\SocketBot\SocketBot.cpp(438,33): warning C4312: 'type cast': conversion from 'int' to 'const char *' of greater size
+S:\SocketBot\SocketBot.cpp(448,3): warning C4808: case '65' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(449,3): warning C4808: case '66' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(450,3): warning C4808: case '67' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(451,3): warning C4808: case '68' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(452,3): warning C4808: case '69' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(453,3): warning C4808: case '70' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(454,3): warning C4808: case '71' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(455,3): warning C4808: case '72' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(456,3): warning C4808: case '73' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(457,3): warning C4808: case '74' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(458,3): warning C4808: case '75' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(459,3): warning C4808: case '76' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(460,3): warning C4808: case '77' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(461,3): warning C4808: case '78' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(462,3): warning C4808: case '79' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(463,3): warning C4808: case '80' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(464,3): warning C4808: case '81' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(465,3): warning C4808: case '82' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(466,3): warning C4808: case '83' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(467,3): warning C4808: case '84' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(468,3): warning C4808: case '85' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(469,3): warning C4808: case '86' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(470,3): warning C4808: case '87' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(471,3): warning C4808: case '88' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(472,3): warning C4808: case '89' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(473,3): warning C4808: case '90' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(478,10): warning C4102: 'returns': unreferenced label
+S:\SocketBot\SocketBot.cpp(572,22): warning C4305: 'return': truncation from 'int' to 'bool'
+S:\SocketBot\SocketBot.cpp(602,17): warning C4474: 'printf' : too many arguments passed for format string
+S:\SocketBot\SocketBot.cpp(602,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+S:\SocketBot\SocketBot.cpp(603,11): warning C4473: 'printf' : not enough arguments passed for format string
+S:\SocketBot\SocketBot.cpp(603,11): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+S:\SocketBot\SocketBot.cpp(603,11): message : the missing variadic argument 1 is required by format string '%s'
+S:\SocketBot\SocketBot.cpp(604,17): warning C4474: 'printf' : too many arguments passed for format string
+S:\SocketBot\SocketBot.cpp(604,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+S:\SocketBot\SocketBot.cpp(618,37): warning C4552: '-': result of expression not used
+S:\SocketBot\SocketBot.cpp(630,14): warning C4553: '==': result of expression not used; did you intend '='?
+S:\SocketBot\SocketBot.cpp(653,34): warning C4312: 'type cast': conversion from 'int' to 'char **' of greater size
+S:\SocketBot\SocketBot.cpp(655,34): warning C4552: '<<': result of expression not used
+S:\SocketBot\SocketBot.cpp(659,47): warning C4144: '!=': relational expression as switch expression
+S:\SocketBot\SocketBot.cpp(692,15): warning C4553: '==': result of expression not used; did you intend '='?
+S:\SocketBot\SocketBot.cpp(693,11): warning C4553: '==': result of expression not used; did you intend '='?
+S:\SocketBot\SocketBot.cpp(814,8): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'unsigned long' can equal the given constant
+S:\SocketBot\SocketBot.cpp(815,45): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+S:\SocketBot\SocketBot.cpp(821,12): warning C4552: '>>': result of expression not used
+S:\SocketBot\SocketBot.cpp(825,11): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'long' can equal the given constant
+S:\SocketBot\SocketBot.cpp(829,23): warning C4154: deletion of an array expression; conversion to pointer supplied
+S:\SocketBot\SocketBot.cpp(688,9): warning C4808: case '33' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(689,9): warning C4808: case '58' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(690,9): warning C4808: case '61' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(660,9): warning C4808: case '65' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(661,9): warning C4808: case '66' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(662,9): warning C4808: case '67' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(663,9): warning C4808: case '68' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(664,9): warning C4808: case '69' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(665,9): warning C4808: case '70' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(666,9): warning C4808: case '71' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(667,9): warning C4808: case '72' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(668,9): warning C4808: case '73' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(669,9): warning C4808: case '74' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(670,9): warning C4808: case '75' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(671,9): warning C4808: case '76' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(672,9): warning C4808: case '77' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(673,9): warning C4808: case '78' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(674,9): warning C4808: case '79' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(675,9): warning C4808: case '80' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(676,9): warning C4808: case '81' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(677,9): warning C4808: case '82' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(678,9): warning C4808: case '83' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(679,9): warning C4808: case '84' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(680,9): warning C4808: case '85' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(681,9): warning C4808: case '86' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(682,9): warning C4808: case '87' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(683,9): warning C4808: case '88' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(684,9): warning C4808: case '89' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(685,9): warning C4808: case '90' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(686,9): warning C4808: case '91' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(687,9): warning C4808: case '93' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(635,9): warning C4102: 'Send': unreferenced label
+S:\SocketBot\SocketBot.cpp(818,10): warning C4101: 'buffer1': unreferenced local variable
+S:\SocketBot\SocketBot.cpp(858,25): warning C4553: '==': result of expression not used; did you intend '='?
+S:\SocketBot\SocketBot.cpp(901,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+S:\SocketBot\SocketBot.cpp(910,27): warning C4144: '>': relational expression as switch expression
+S:\SocketBot\SocketBot.cpp(925,15): warning C4553: '==': result of expression not used; did you intend '='?
+S:\SocketBot\SocketBot.cpp(928,13): warning C4553: '==': result of expression not used; did you intend '='?
+S:\SocketBot\SocketBot.cpp(948,32): warning C4552: '<<': result of expression not used
+S:\SocketBot\SocketBot.cpp(951,36): warning C4312: 'type cast': conversion from 'int' to 'char **' of greater size
+S:\SocketBot\SocketBot.cpp(987,8): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'unsigned long' can equal the given constant
+S:\SocketBot\SocketBot.cpp(988,5): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+S:\SocketBot\SocketBot.cpp(911,6): warning C4808: case '300' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(913,6): warning C4808: case '500' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(914,6): warning C4808: case '700' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(971,8): warning C4808: case '49' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(973,8): warning C4808: case '50' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(975,8): warning C4808: case '51' is not a valid value for switch condition of type 'bool'
+S:\SocketBot\SocketBot.cpp(412): warning C4715: 'Socket': not all control paths return a value
+S:\SocketBot\SocketBot.cpp(574): warning C4715: 'ConnectToHost': not all control paths return a value
+S:\SocketBot\SocketBot.cpp(519): warning C4715: 'start': not all control paths return a value
+S:\SocketBot\SocketBot.cpp(865): warning C4715: 'storage': not all control paths return a value
+S:\SocketBot\SocketBot.cpp(847): warning C4715: 'Connectnrecievesocketnsave': not all control paths return a value
+  SocketBot.vcxproj -> S:\SocketBot\x64\Debug\SocketBot.exe

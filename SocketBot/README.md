@@ -5,9 +5,10 @@ Communicates with the client software between buffers and network data formattin
 
 
 
-Need to fix and enhance(reliability of success:
+Need to fix and enhance(reliability of success):
 -
-_
+-
+
 
 Handling and catching logical issues for permanent upkeep of functionality:
 -

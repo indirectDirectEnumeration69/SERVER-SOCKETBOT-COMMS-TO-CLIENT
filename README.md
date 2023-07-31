@@ -1,5 +1,5 @@
 # random-server-work
-just some random stuff ive done i guess,still unfinished
+works need optimisation for application cross communication.
 
 
 
